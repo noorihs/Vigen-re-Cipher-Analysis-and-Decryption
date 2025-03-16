@@ -1,4 +1,4 @@
-# Vigen-re-Cipher-Analysis-and-Decryption
+# Vigenére-Cipher-Analysis-and-Decryption
 
 This project provides a set of Python tools for analyzing and decrypting text encrypted using the Vigenère cipher. It utilizes frequency analysis, Kasiski examination, and index of coincidence to determine the possible key length and recover the encryption key.
 
